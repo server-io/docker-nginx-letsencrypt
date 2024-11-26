@@ -1,7 +1,5 @@
 # Nginx + Certbot Docker Setup
 
-This repository contains a `docker-compose` configuration for deploying Nginx with Let's Encrypt SSL certificates using Certbot.
-
 ## Setup Instructions
 
 1. **Clone the Repository**  
