@@ -43,4 +43,5 @@
 - Certbot will automatically renew your SSL certificates.  
 - You can modify the Nginx configuration in `nginx/conf.d/default.conf` and `nginx/conf.d/default.ssl.conf` as needed.
 
-### Deploy this project on [Virtual Server with preinstalled Docker](https://serverio.io/vps_docker)
+--
+Deploy this project on [Virtual Server with preinstalled Docker](https://serverio.io/vps_docker)
