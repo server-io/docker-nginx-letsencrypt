@@ -34,8 +34,7 @@
    docker compose up -d
    ```
 
-5. **Enjoy!**
-   Upload your web pages to ./nginx/html directory
+5. Upload your web pages to ./nginx/html directory
 
 ---
 
