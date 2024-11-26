@@ -34,8 +34,8 @@
    docker compose up -d
    ```
 
-5. **Enjoy!**  
-   Your website is now available over HTTPS.
+5. **Enjoy!**
+   Upload your web pages to ./nginx/html directory
 
 ---
 
